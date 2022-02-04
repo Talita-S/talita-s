@@ -12,6 +12,8 @@
   <img align="center" alt="Tali-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Tali-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Tali-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
+  <img align="center" alt="Tali-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+
   <img align="right" alt="AmySantiago-ThumbsUp" width="250" src="https://i1.wp.com/media4.giphy.com/media/1Y0qVVerlyJCU/giphy.gif">
 </div>
 
