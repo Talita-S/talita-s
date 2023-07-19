@@ -40,6 +40,7 @@
 ### Other Knowledge:
 ![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 ![MUI](https://img.shields.io/badge/-MaterialUI-0D1117?style=for-the-badge&logo=mui)&nbsp;
+![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-0D1117?style=for-the-badge&logo=tailwindcss)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
   
 ### Studying in this moment:
